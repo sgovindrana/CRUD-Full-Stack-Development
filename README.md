@@ -26,10 +26,7 @@ This project demonstrates a basic full-stack application using Spring Boot for t
 - **Create Employee**: Add a new employee.
 - **Update Employee**: Edit an existing employee's details.
 - **Delete Employee**: Remove an employee from the list.
-
-## Screenshot
-![Screenshot 2024-08-20 at 7 31 59 PM](https://github.com/user-attachments/assets/e66dfb5b-b053-4917-b97f-19f8bd73627f)
-
+  
 
 ### Prerequisites
 
