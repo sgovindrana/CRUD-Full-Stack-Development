@@ -41,20 +41,10 @@ This project demonstrates a basic full-stack application using Spring Boot for t
    git clone https://github.com/sgovindrana/CRUD-Java-Full-Stack.git
    cd CRUD-Java-Full-Stack/backend
    
-## Getting Started
-----
-Follow the steps below to set up and run the project locally **or** deploy it on AWS.
+## Getting Started
+ 
+ To get started with the Employee Management System:
 
-## Prerequisites
-----
-- **Node.js** & **Angular CLI** – build / run the frontend  
-- **Java 17 +** & **Spring Boot** – develop the backend microservices  
-- **Docker** – containerise services  
-- **Kubernetes (AWS EKS)** – orchestrate containers  
-- **AWS CLI** & **kubectl** – manage AWS and your EKS cluster  
-- **Jenkins** – continuous integration  
-- **SonarQube** – static code analysis  
-- **ArgoCD** – continuous deployment
 
 ## Installation
 ----
@@ -75,4 +65,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 For questions or inquiries, please contact Govind Rana at s.govindrana@gmail.com.
 
-Thank you for using the Food Delivery Application!
+Thank you for using the CRUD-Full Stack Application!
